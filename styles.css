@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap");
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -50,19 +52,20 @@ section {
   color: hsl(0, 36%, 70%);
   font-weight: 300;
   padding-top: 80px;
-  font-family: Josefin Sans;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .soon {
   font-weight: 700;
   font-size: 50px;
   padding-top: 10px;
-  font-family: Josefin Sans;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .paragraph {
   font-size: 16px;
-  font-family: Josefin Sans;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
   padding-top: 15px;
   color: hsl(0, 36%, 70%);
 }
@@ -76,6 +79,7 @@ section {
   border: 1px solid #ccc;
   background-color: transparent;
   border-radius: 50px;
+  outline: none;
 }
 
 form {
