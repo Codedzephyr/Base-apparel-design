@@ -51,13 +51,15 @@ section {
   font-size: 50px;
   color: hsl(0, 36%, 70%);
   font-weight: 300;
+  letter-spacing: 15px;
   padding-top: 80px;
   font-family: "Josefin Sans", sans-serif;
 }
 
 .soon {
-  font-weight: 700;
+  font-weight: 900;
   font-size: 50px;
+  letter-spacing: 15px;
   padding-top: 10px;
   font-family: "Josefin Sans", sans-serif;
 }
@@ -67,6 +69,7 @@ section {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
   padding-top: 15px;
+  line-height: 1.5em;
   color: hsl(0, 36%, 70%);
 }
 
